@@ -1,0 +1,44 @@
+{
+  "id": "2087366",
+  "name": "D:phpStudyPHPTutorialWWWThreeuetestmytest",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "230235",
+      "name": "dingdan",
+      "font_class": "dingdan",
+      "unicode": "ea4e",
+      "unicode_decimal": 59982
+    },
+    {
+      "icon_id": "434873",
+      "name": "zuojiantou",
+      "font_class": "zuojiantou",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "446723",
+      "name": "外卖",
+      "font_class": "waimai",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "587090",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e7ea",
+      "unicode_decimal": 59370
+    },
+    {
+      "icon_id": "848633",
+      "name": "geren",
+      "font_class": "gerenfill",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    }
+  ]
+}
